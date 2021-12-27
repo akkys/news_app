@@ -1,3 +1,13 @@
+### Required API Link
+
+Please login to below link to generate a new APIKEY for the project. 
+
+[News API](https://newsapi.org/)
+
+And then create a new file called .env.local 
+
+Add your APIKEY in that file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
